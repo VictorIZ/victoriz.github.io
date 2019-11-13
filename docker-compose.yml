@@ -1,7 +1,7 @@
 version: '2.1'
 services:
   site:
-    image: jekyll/builder:latest
+    image: jekyll/builder:3
     volumes:
       - ./src:/srv/jekyll
       - ./vendor/bundle:/usr/local/bundle
