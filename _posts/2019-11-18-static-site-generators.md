@@ -1,7 +1,7 @@
 ---
 layout: post
 comments: true
-title:  "Precompiled CSS"
+title:  "SSG"
 date:   2019-11-18 13:05 +0100
 categories: Blog post
 ---
