@@ -21,8 +21,7 @@
 title: Victor Ionzon
 email: victor.ionzon@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  This is site is created in the course 1dv022, clientbased webprogramming and is a site cointaining information
-  about me and my work in the course.
+  This is site is created in the course 1dv022, clientbased webprogramming.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  VictorIZ
